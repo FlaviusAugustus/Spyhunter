@@ -1,0 +1,16 @@
+﻿  Car.cpp
+C:\Users\gracj\source\repos\SPYHUNTERPP2\SPYHUNTERPP2\Car.cpp(73,33): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\gracj\source\repos\SPYHUNTERPP2\SPYHUNTERPP2\Car.cpp(74,27): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  Game.cpp
+C:\Users\gracj\source\repos\SPYHUNTERPP2\SPYHUNTERPP2\Game.cpp(71,33): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\gracj\source\repos\SPYHUNTERPP2\SPYHUNTERPP2\Game.cpp(79,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\gracj\source\repos\SPYHUNTERPP2\SPYHUNTERPP2\Game.cpp(163,24): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Player.cpp
+C:\Users\gracj\source\repos\SPYHUNTERPP2\SPYHUNTERPP2\Player.cpp(78,26): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  Road.cpp
+  Timer.cpp
+  UserInterface.cpp
+  main.cpp
+C:\Users\gracj\source\repos\SPYHUNTERPP2\SPYHUNTERPP2\main.cpp(31,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  SPYHUNTERPP2.vcxproj -> C:\Users\gracj\source\repos\SPYHUNTERPP2\x64\Debug\SPYHUNTERPP2.exe
